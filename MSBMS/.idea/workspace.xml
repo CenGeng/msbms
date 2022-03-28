@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MSBMS:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17388f26-f0f2-406d-b6c6-85e08ed2c04a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JspContextManager">
+    <jsp-to-context jsp-file="file://$PROJECT_DIR$/src/main/webapp/jsp/common/head.jsp" context-file="file://$PROJECT_DIR$/src/main/webapp/jsp/frame.jsp" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop_tools\apache-maven-3.6.1\maven-repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../develop_tools/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\develop_tools\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26lrF7b1jelKsQelEJ4wa8GJNEj" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/jsp" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AllProjects\JavaWeb\TestDemo\MSBMS\src\main\webapp\jsp" />
+      <recent name="D:\AllProjects\JavaWeb\TestDemo\MSBMS\src\main\webapp\jsp\common" />
+      <recent name="D:\AllProjects\JavaWeb\TestDemo\MSBMS\src\main\java\cn\cen\util" />
+      <recent name="D:\AllProjects\JavaWeb\TestDemo\MSBMS\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AllProjects\JavaWeb\TestDemo\MSBMS\src\main\webapp\jsp" />
+      <recent name="D:\AllProjects\JavaWeb\TestDemo\MSBMS\src\main\webapp\jsp\common" />
+      <recent name="D:\AllProjects\JavaWeb\TestDemo\MSBMS\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.60">
+    <configuration name="BillDaoImpl.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MSBMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cen.dao.bill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.cen.dao.bill" />
+      <option name="MAIN_CLASS_NAME" value="cn.cen.dao.bill.BillDaoImpl" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillServiceImpl.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MSBMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cen.service.bill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.cen.service.bill" />
+      <option name="MAIN_CLASS_NAME" value="cn.cen.service.bill.BillServiceImpl" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillServiceImpl.testName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MSBMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cen.service.bill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.cen.service.bill" />
+      <option name="MAIN_CLASS_NAME" value="cn.cen.service.bill.BillServiceImpl" />
+      <option name="METHOD_NAME" value="testName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderDaoImpl.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MSBMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cen.dao.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.cen.dao.provider" />
+      <option name="MAIN_CLASS_NAME" value="cn.cen.dao.provider.ProviderDaoImpl" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoImpl.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MSBMS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.cen.dao.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.cen.dao.user" />
+      <option name="MAIN_CLASS_NAME" value="cn.cen.dao.user.UserDaoImpl" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.60" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.60" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="MSBMS:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/MSBMS_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="01c6b461-5fde-4358-ab29-4b1a6a555ec9" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9667" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="MSBMS:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.BillDaoImpl.test" />
+      <item itemvalue="TestNG.BillServiceImpl.test" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.60" />
+      <item itemvalue="TestNG.ProviderDaoImpl.test" />
+      <item itemvalue="TestNG.BillServiceImpl.testName" />
+      <item itemvalue="TestNG.UserDaoImpl.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.BillServiceImpl.testName" />
+        <item itemvalue="TestNG.UserDaoImpl.test" />
+        <item itemvalue="TestNG.BillDaoImpl.test" />
+        <item itemvalue="TestNG.ProviderDaoImpl.test" />
+        <item itemvalue="TestNG.BillServiceImpl.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17388f26-f0f2-406d-b6c6-85e08ed2c04a" name="Changes" comment="" />
+      <created>1648009084329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648009084329</updated>
+      <workItem from="1648009085459" duration="599000" />
+      <workItem from="1648096168895" duration="17878000" />
+      <workItem from="1648117505908" duration="499000" />
+      <workItem from="1648183749754" duration="17688000" />
+      <workItem from="1648211879448" duration="169000" />
+      <workItem from="1648268245120" duration="22354000" />
+      <workItem from="1648353207453" duration="21266000" />
+      <workItem from="1648388636476" duration="710000" />
+      <workItem from="1648441889791" duration="14347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
